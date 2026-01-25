@@ -1,2 +1,1 @@
-# betting-tools
-An all-in-one sports betting tools platform for African bettors, featuring bet slip generators, odds calculators, booking code editors, and daily expert-curated odds. Designed to scale into a profitable betting utility product.
+A full-stack sports betting tools platform built for the Nigerian market. Includes bet slip generation, odds calculation, booking code editing, and daily curated odds with an admin dashboard. Built with scalability, performance, and monetization in mind.
